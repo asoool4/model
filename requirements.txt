@@ -1,0 +1,7 @@
+Flask
+flask_cors
+opencv-python
+streamlit
+flask-cors
+tensorflow
+kagglehub
